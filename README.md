@@ -14,3 +14,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Java](problems/0121-best-time-to-buy-and-sell-stock/Solution.java) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Java](problems/0125-valid-palindrome/Solution.java) |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | [Java](problems/0226-invert-binary-tree/Solution.java) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Java](problems/0242-valid-anagram/Solution.java) |
