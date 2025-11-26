@@ -18,3 +18,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Java](problems/0704-binary-search/Solution.java) |
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | [Java](problems/0733-flood-fill/Solution.java) |
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [Java](problems/0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Java](problems/0110-balanced-binary-tree/Solution.java) |
