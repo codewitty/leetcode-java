@@ -20,3 +20,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | [Java](problems/0235-lowest-common-ancestor-of-a-binary-search-tree/Solution.java) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Java](problems/0110-balanced-binary-tree/Solution.java) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Java](problems/0141-linked-list-cycle/Solution.java) |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Java](problems/0232-implement-queue-using-stacks/MyQueue.java) |
