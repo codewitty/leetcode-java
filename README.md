@@ -21,3 +21,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Java](problems/0110-balanced-binary-tree/Solution.java) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Java](problems/0141-linked-list-cycle/Solution.java) |
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | [Java](problems/0232-implement-queue-using-stacks/MyQueue.java) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Java](problems/0070-climbing-stairs/Solution.java) |
