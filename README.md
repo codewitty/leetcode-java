@@ -24,3 +24,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | [Java](problems/0070-climbing-stairs/Solution.java) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Java](problems/0206-reverse-linked-list/Solution.java) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Java](problems/0169-majority-element/Solution.java) |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Java](problems/0067-add-binary/Solution.java) |
