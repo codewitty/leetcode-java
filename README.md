@@ -27,3 +27,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | Easy | [Java](problems/0067-add-binary/Solution.java) |
 | 543 | [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | [Java](problems/0543-diameter-of-binary-tree/Solution.java) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Java](problems/0104-maximum-depth-of-binary-tree/Solution.java) |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Java](problems/0053-maximum-subarray/Solution.java) |
