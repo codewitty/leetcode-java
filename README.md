@@ -29,3 +29,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Java](problems/0104-maximum-depth-of-binary-tree/Solution.java) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Java](problems/0053-maximum-subarray/Solution.java) |
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Java](problems/0057-insert-interval/Solution.java) |
+| 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Java](problems/0542-01-matrix/Solution.java) |
