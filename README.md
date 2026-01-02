@@ -31,3 +31,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | [Java](problems/0057-insert-interval/Solution.java) |
 | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | [Java](problems/0542-01-matrix/Solution.java) |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | Medium | [Java](problems/0973-k-closest-points-to-origin/Solution.java) |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Java](problems/0003-longest-substring-without-repeating-characters/Solution.java) |
