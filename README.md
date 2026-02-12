@@ -36,3 +36,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | [Java](problems/0102-binary-tree-level-order-traversal/Solution.java) |
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Java](problems/0133-clone-graph/Solution.java) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Java](problems/0150-evaluate-reverse-polish-notation/Solution.java) |
+| 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Java](problems/0207-course-schedule/Solution.java) |
