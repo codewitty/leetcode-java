@@ -37,3 +37,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | [Java](problems/0133-clone-graph/Solution.java) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Java](problems/0150-evaluate-reverse-polish-notation/Solution.java) |
 | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | [Java](problems/0207-course-schedule/Solution.java) |
+| 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Java](problems/0208-implement-trie-prefix-tree/Trie.java) |
