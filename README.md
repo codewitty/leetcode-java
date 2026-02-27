@@ -40,3 +40,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | [Java](problems/0208-implement-trie-prefix-tree/Trie.java) |
 | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | Medium | [Java](problems/0322-coin-change/Solution.java) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Java](problems/0238-product-of-array-except-self/Solution.java) |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Java](problems/0155-min-stack/MinStack.java) |
