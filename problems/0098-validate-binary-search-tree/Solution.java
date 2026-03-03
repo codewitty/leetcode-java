@@ -1,0 +1,56 @@
+import java.util.*;
+
+class TreeNode {
+    int val;
+    TreeNode left, right;
+
+    TreeNode(int val) { this.val = val; }
+
+    // Builds a tree from LeetCode's level-order array format.
+    static TreeNode of(Integer... vals) {
+        if (vals.length == 0 || vals[0] == null) return null;
+        TreeNode root = new TreeNode(vals[0]);
+        Deque<TreeNode> q = new ArrayDeque<>();
+        q.add(root);
+        int i = 1;
+        while (i < vals.length) {
+            TreeNode cur = q.poll();
+            if (vals[i] != null) { cur.left = new TreeNode(vals[i]); q.add(cur.left); }
+            i++;
+            if (i < vals.length && vals[i] != null) { cur.right = new TreeNode(vals[i]); q.add(cur.right); }
+            i++;
+        }
+        return root;
+    }
+
+    static List<Integer> bfs(TreeNode root) {
+        List<Integer> out = new ArrayList<>();
+        Deque<TreeNode> q = new ArrayDeque<>();
+        if (root != null) q.add(root);
+        while (!q.isEmpty()) {
+            TreeNode n = q.poll();
+            out.add(n.val);
+            if (n.left != null) q.add(n.left);
+            if (n.right != null) q.add(n.right);
+        }
+        return out;
+    }
+}
+
+class Solution {
+    public boolean isValidBST(TreeNode root) {
+        return valid(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
+    private boolean valid(TreeNode n, long lo, long hi) {
+        if (n == null) return true;
+        if (n.val <= lo || n.val >= hi) return false;
+        return valid(n.left, lo, n.val) && valid(n.right, n.val, hi);
+    }
+
+    public static void main(String[] args) {
+        Solution s = new Solution();
+        System.out.println(s.isValidBST(TreeNode.of(2, 1, 3)));
+        System.out.println(s.isValidBST(TreeNode.of(5, 1, 4, null, null, 3, 6)));
+    }
+}
