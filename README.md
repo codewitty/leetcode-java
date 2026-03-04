@@ -42,3 +42,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Java](problems/0238-product-of-array-except-self/Solution.java) |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | Medium | [Java](problems/0155-min-stack/MinStack.java) |
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Java](problems/0098-validate-binary-search-tree/Solution.java) |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Java](problems/0200-number-of-islands/Solution.java) |
