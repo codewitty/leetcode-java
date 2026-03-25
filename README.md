@@ -44,3 +44,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | [Java](problems/0098-validate-binary-search-tree/Solution.java) |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | [Java](problems/0200-number-of-islands/Solution.java) |
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Java](problems/0994-rotting-oranges/Solution.java) |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Java](problems/0033-search-in-rotated-sorted-array/Solution.java) |
