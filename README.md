@@ -46,3 +46,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | [Java](problems/0994-rotting-oranges/Solution.java) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Java](problems/0033-search-in-rotated-sorted-array/Solution.java) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Java](problems/0039-combination-sum/Solution.java) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Java](problems/0046-permutations/Solution.java) |
