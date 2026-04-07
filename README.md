@@ -48,3 +48,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Java](problems/0039-combination-sum/Solution.java) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Java](problems/0046-permutations/Solution.java) |
 | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | [Java](problems/0056-merge-intervals/Solution.java) |
+| 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [Java](problems/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) |
