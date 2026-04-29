@@ -51,3 +51,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | [Java](problems/0236-lowest-common-ancestor-of-a-binary-tree/Solution.java) |
 | 981 | [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/) | Medium | [Java](problems/0981-time-based-key-value-store/TimeMap.java) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Java](problems/0075-sort-colors/Solution.java) |
+| 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [Java](problems/0139-word-break/Solution.java) |
