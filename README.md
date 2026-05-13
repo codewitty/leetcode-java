@@ -54,3 +54,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | [Java](problems/0139-word-break/Solution.java) |
 | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | Medium | [Java](problems/0416-partition-equal-subset-sum/Solution.java) |
 | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | Medium | [Java](problems/0008-string-to-integer-atoi/Solution.java) |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Java](problems/0054-spiral-matrix/Solution.java) |
