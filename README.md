@@ -57,3 +57,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | Medium | [Java](problems/0054-spiral-matrix/Solution.java) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Java](problems/0078-subsets/Solution.java) |
 | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | Medium | [Java](problems/0199-binary-tree-right-side-view/Solution.java) |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | [Java](problems/0005-longest-palindromic-substring/Solution.java) |
