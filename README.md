@@ -62,3 +62,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium | [Java](problems/0105-construct-binary-tree-from-preorder-and-inorder-traversal/Solution.java) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Java](problems/0011-container-with-most-water/Solution.java) |
 | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | Medium | [Java](problems/0017-letter-combinations-of-a-phone-number/Solution.java) |
+| 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Java](problems/0079-word-search/Solution.java) |
