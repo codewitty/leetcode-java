@@ -65,3 +65,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Java](problems/0079-word-search/Solution.java) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Java](problems/0438-find-all-anagrams-in-a-string/Solution.java) |
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Java](problems/0310-minimum-height-trees/Solution.java) |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Java](problems/0621-task-scheduler/Solution.java) |
