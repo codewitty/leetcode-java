@@ -67,3 +67,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | Medium | [Java](problems/0310-minimum-height-trees/Solution.java) |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | Medium | [Java](problems/0621-task-scheduler/Solution.java) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [Java](problems/0146-lru-cache/LRUCache.java) |
+| 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Java](problems/0230-kth-smallest-element-in-a-bst/Solution.java) |
