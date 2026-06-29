@@ -69,3 +69,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | [Java](problems/0146-lru-cache/LRUCache.java) |
 | 230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | [Java](problems/0230-kth-smallest-element-in-a-bst/Solution.java) |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Java](problems/0019-remove-nth-node-from-end-of-list/Solution.java) |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Java](problems/0049-group-anagrams/Solution.java) |
