@@ -72,3 +72,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | [Java](problems/0049-group-anagrams/Solution.java) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium | [Java](problems/0128-longest-consecutive-sequence/Solution.java) |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Java](problems/0347-top-k-frequent-elements/Solution.java) |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Java](problems/0036-valid-sudoku/Solution.java) |
