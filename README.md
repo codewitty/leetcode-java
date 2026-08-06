@@ -74,3 +74,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | [Java](problems/0347-top-k-frequent-elements/Solution.java) |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | Medium | [Java](problems/0036-valid-sudoku/Solution.java) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Java](problems/0739-daily-temperatures/Solution.java) |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Java](problems/0153-find-minimum-in-rotated-sorted-array/Solution.java) |
