@@ -76,3 +76,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Medium | [Java](problems/0739-daily-temperatures/Solution.java) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Java](problems/0153-find-minimum-in-rotated-sorted-array/Solution.java) |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | [Java](problems/0424-longest-repeating-character-replacement/Solution.java) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | [Java](problems/0198-house-robber/Solution.java) |
