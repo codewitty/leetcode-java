@@ -80,3 +80,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | [Java](problems/0213-house-robber-ii/Solution.java) |
 | 300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | Medium | [Java](problems/0300-longest-increasing-subsequence/Solution.java) |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Medium | [Java](problems/1143-longest-common-subsequence/Solution.java) |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | [Java](problems/0072-edit-distance/Solution.java) |
