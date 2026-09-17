@@ -83,3 +83,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Medium | [Java](problems/0072-edit-distance/Solution.java) |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | [Java](problems/0042-trapping-rain-water/Solution.java) |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Java](problems/0084-largest-rectangle-in-histogram/Solution.java) |
+| 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Java](problems/0076-minimum-window-substring/Solution.java) |
