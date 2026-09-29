@@ -85,3 +85,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | Hard | [Java](problems/0084-largest-rectangle-in-histogram/Solution.java) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Java](problems/0076-minimum-window-substring/Solution.java) |
 | 239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | Hard | [Java](problems/0239-sliding-window-maximum/Solution.java) |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | Hard | [Java](problems/0023-merge-k-sorted-lists/Solution.java) |
