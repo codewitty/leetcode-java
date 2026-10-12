@@ -89,3 +89,4 @@ cd problems/0001-two-sum && javac Solution.java && java Solution
 | 295 | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | [Java](problems/0295-find-median-from-data-stream/MedianFinder.java) |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | [Java](problems/0124-binary-tree-maximum-path-sum/Solution.java) |
 | 297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | [Java](problems/0297-serialize-and-deserialize-binary-tree/Codec.java) |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | [Java](problems/0004-median-of-two-sorted-arrays/Solution.java) |
